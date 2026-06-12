@@ -31,7 +31,7 @@ POINTS_BIN    = "Points/points.bin"
 SETTINGS_JSON = "Points/settings.json"
 RESULTS_CSV   = "results.csv"
 PRESSURE_CSV  = "pressure_results.csv"
-DOE_CSV       = "doe.csv"
+DOE_CSV       = "/Users/tairakhayev/Downloads/human-airways-project-main/doe.csv"
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 K_GEOM         = 5

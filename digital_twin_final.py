@@ -53,10 +53,10 @@ from sklearn.model_selection import KFold
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 RESULTS_CSV  = "results.csv"
 PRESSURE_CSV = "pressure_results.csv"
-DOE_CSV      = "doe.csv"
+DOE_CSV      = "/Users/tairakhayev/Downloads/human-airways-project-main/doe.csv"
 
 K_GEOM  = 5
-K_PRESS = 3
+K_PRESS = 5
 
 REGIME_LOW_MAX = 30
 REGIME_MID_MAX = 100
